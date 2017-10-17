@@ -1,0 +1,28 @@
+  <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1> it is time for a journey into the crab </h1>
+          <div class="dropdown">
+            <span><img height="100" width="100" src="https://cdn.vox-cdn.com/thumbor/xiqObnqd6CGmv0u2nh_tchF-ogM=/0x0:639x426/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/47509235/HalloweenCrab.0.0.jpg"/></span>
+            <div class="dropdown-content"style="width: 1000px">
+              <div class="col-6" >
+                <h2> the journey will never end, these is only one thing and it is crab </h2>
+                <span><img height="100" width="100" src="https://cdn.vox-cdn.com/thumbor/xiqObnqd6CGmv0u2nh_tchF-ogM=/0x0:639x426/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/47509235/HalloweenCrab.0.0.jpg"/></span>
+
+                <div class="dropdown">
+                  <div class="dropdown-content"style="width: 1000px">
+                    <div class="col-6" style="background-color: magenta" >
+                      <h2> THIS WAS A TRICK I HAVE DECEIVED YOU! </h2>
+                      <span><img height="100" width="100" src="http://www.chicago-toast.com/img/big-toast-img.png"/></span>
+
+
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
